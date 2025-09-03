@@ -50,10 +50,4 @@ A Django-based REST API project for tracking devices.
 
 Feel free to fork this project and create pull requests.
 
-## License
-
-Specify your license here (e.g., MIT).
-
----
-
 **Note:** Update and customize this README with more specific project and API details as you continue development.
